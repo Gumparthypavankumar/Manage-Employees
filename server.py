@@ -12,7 +12,7 @@ import datetime
 app = Flask(__name__)
 app.secret_key = "abc"  
 
-app.config['MONGO_URI'] = "mongodb+srv://Pavan:Pavan123@employeemanager.kgjli.mongodb.net/employeeManager?retryWrites=true&w=majority"
+app.config['MONGO_URI'] = "your mongo URI"
 mongo = PyMongo(app)
 
 @app.route('/', methods = ['GET', 'POST'])
