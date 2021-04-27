@@ -7,7 +7,7 @@ This is a full stack site that allows users to manage a dataset about employees.
 Must have:
 As a user I would like to easily and quickly check the available employees in this site
 
-As a user I want to eeasily add, update and delete a employee.
+As a user I want to easily add, update and delete a employee.
 
 ## Should have:
 As a user I would like to read about employee details
